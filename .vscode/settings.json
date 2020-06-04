@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    "auth/node_modules": true,
+    "client/node_modules": true,
+    "client/.next": true,
+    "common/node_modules": true,
+    "tickets/node_modules": true,
+    "orders/node_modules": true,
+    "expiration/node_modules": true,
+    "payments/node_modules": true
+  }
+}
